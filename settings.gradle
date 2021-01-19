@@ -1,0 +1,3 @@
+include ':swipe-recycler'
+include ':app'
+rootProject.name = "Swipe"
